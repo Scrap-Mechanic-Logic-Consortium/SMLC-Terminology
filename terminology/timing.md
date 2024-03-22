@@ -16,4 +16,4 @@ description: Definitions of timing related terms
   - **Full throughput** means it can accept a new input/output every tick. (you would say "the input is full throughput")
 - **Concurrent** means that the inputs/outputs arrive at the same time.
 - **Fixed delay** means that the time it takes for an input to produce an output does not depend on the input.
-- **Balanced** means that a component is full throughput at the in and output, concurrent at the in and output, and fixed delay. This also means that if the logic circuit were to be converted to a directional graph, that the distance from each input to the output is the same, and that all the different paths from a gate to any output gate have the same length..
+- **Balanced** means that a component is full throughput at the in and output, concurrent at the in and output, and fixed delay. This also means that if the logic circuit were to be converted to a directional graph, that the distance from each input to the output is the same, and that all the different paths from a gate to any output gate have the same length.
