@@ -1,11 +1,11 @@
 ---
-title: Icecream Index
-description: A way to categorize logic creations based on the quantity and type of mods used.
+title: Ice Cream Index
+description: A set of terminology used to describe the extent to which a creation uses mods.
 ---
 
 # Icecream Index
 
-The Icecream Index is a way to categorize logic creations based on the types of logic mods used.
+The Ice Cream Index is a set of terminology used to describe the extent to which a creation uses mods.
 
 - **Vanilla** = No mods are used.
     - **Strict/Glitchless Vanilla** = Absolutely no mods, BP edits, glitches, self-wires, or non-vanilla colors are allowed in this category.
