@@ -5,7 +5,8 @@
 4. Mark the pull request as ready for review
 # Guidelines for Contributing
 A proper tutorial is still a WIP, but feel free to make a proposal editing this file in the /dev branch if you want to make a tutorial. For now we reccomend looking at the timing terminology as an example/template.
-## Defining TermsWe are very specific about how each page is laid out. This is to keep the site consistent. Each term should be defined as follows:
+## Defining Terms
+We are very specific about how each page is laid out. This is to keep the site consistent. Each term should be defined as follows:
 1. the term being defined should be **bolded** in its first mention in the file by using `**double-asterisks**`.
 2. include some example uses of the term
 3. if the term is a real-world term, the definition must begin with a 🎯 which can be inserted with `:dart:`
